@@ -1,5 +1,12 @@
+
+
+
+#### Create a list for number and model name ####
+
 no=[4567,2345,5678]
 model=['dfgg','sdfd','wert']
+
+
 def car_add(a,b):
     no.append(a)
     model.append(b)
